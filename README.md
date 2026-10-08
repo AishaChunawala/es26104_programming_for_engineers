@@ -15,6 +15,7 @@ A collection of foundational Python scripts, practice exercises, and college pra
 | **`Practice 4 Student Exam info.py`** | Stores and displays student examination details and results. | Dictionaries, Data structures |
 | **`Practice 5 Student Info.py`** | Manages and displays basic student profile information. | Variables, basic data handling |
 | **`Practice 6 Convert Celcius into Fahrenheit.py`** | Converts temperature readings from Celsius to Fahrenheit. | Mathematical formulas, conversion logic |
+| **`Practice 7 Calculator.py`** | Interactive command-line calculator supporting multiple mathematical operations (addition, subtraction, multiplication, division, and modulus) with user menu options and error handling. | Functions, loops, conditional branching, error handling (`try-except`) |
 
 ### 🔬 Practical Assignments
 | Script Name | Description | Key Concepts / Operations |
@@ -28,7 +29,12 @@ A collection of foundational Python scripts, practice exercises, and college pra
 | **`Practical 5 Find maximum of two numbers.py`** | Compares two numbers and outputs the larger one. | Conditional statements (`if-else`) |
 | **`Practical 6 Check if a number is even or odd.py`** | Determines whether an input number is even or odd. | Modulo operator (`%`), Conditionals |
 | **`Practical 7 Check if a number is positive, negative or zero.py`** | Evaluates the sign of an entered number. | Nested conditionals (`if-elif-else`) |
-| **`Practical 8 Minimum number of desks.py`** | Mathematical logic problem solving to calculate minimum resources required. | Arithmetic, integer division |
+| **`Practical 8 Minimum number of desks.py`** | Mathematical logic problem solving to calculate minimum resources required across multiple classes. | Arithmetic, integer division |
+| **`Practical 9 The angle (in degrees) of the hour hand.py`** | Calculates the precise angle of a clock's hour hand based on given time values. | Trigonometry/geometry logic, time calculation |
+| **`Practical 10 Find vertices of a rectangle.py`** | Computes or maps out coordinate vertices for a rectangular shape. | Coordinate geometry, geometric properties |
+| **`Practical 11 Find the missing card.py`** | Logic-based puzzle script to identify a missing card from a standard deck/set. | List manipulation, set theory, searching algorithms |
+| **`Practical 12 Maximum number of the three numbers.py`** | Compares three separate numbers to find and display the greatest one. | Nested conditionals, multi-variable comparison |
+| **`Practical 13 Find if a year is a leap year.py`** | Determines whether a given year is a leap year based on divisibility rules by 4, 100, and 400. | Conditional logic, modulo operator (`%`), Boolean expressions |
 
 ---
 
