@@ -16,6 +16,9 @@ A collection of foundational Python scripts, practice exercises, and college pra
 | **`Practice 5 Student Info.py`** | Manages and displays basic student profile information. | Variables, basic data handling |
 | **`Practice 6 Convert Celcius into Fahrenheit.py`** | Converts temperature readings from Celsius to Fahrenheit. | Mathematical formulas, conversion logic |
 | **`Practice 7 Calculator.py`** | Interactive command-line calculator supporting multiple mathematical operations (addition, subtraction, multiplication, division, and modulus) with user menu options and error handling. | Functions, loops, conditional branching, error handling (`try-except`) |
+| **`Practice 8 Electricity Bill Calculator.py`** | Calculates utility electricity charges based on consumption units and tiered tariff rates. | Conditional logic, arithmetic calculations, tier-based pricing |
+| **`Practice 9 Check whether a student has passed....py`** | Evaluates student marks or grades to determine pass/fail status. | Conditional statements (`if-else`), relational operators |
+| **`Practice 10 Student Eligibility.py`** | Checks student qualifications or criteria (such as attendance, marks, or age) for course/exam eligibility. | Conditional branching, logical operators (`and`, `or`) |
 
 ### 🔬 Practical Assignments
 | Script Name | Description | Key Concepts / Operations |
