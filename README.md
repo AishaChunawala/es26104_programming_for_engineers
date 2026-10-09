@@ -26,7 +26,7 @@ A collection of foundational Python scripts, practice exercises, and college pra
 | **`Practical 1.1 Area of Circle.py`** | Calculates the area of a circle given its radius. | Mathematical formulas, constants (`pi`) |
 | **`Practical 1.2 Area of Triangle.py`** | Computes the area of a triangle based on base and height. | Arithmetic calculations |
 | **`Practical 1.3 Area of Rectangle.py`** | Calculates the area of a rectangle using length and width. | Multiplication logic |
-| **`Practical 2 Swap Two Variables.py`** | Swaps the values of two variables with or without a temporary variable. | Variable assignment logic |
+| **`Practical 2 Swap Two Variables.py`** | Swaps the values of two variables with a temporary variable. | Variable assignment logic |
 | **`Practical 3 Generate a Random Number.py`** | Generates and prints a random integer within a defined range. | Built-in `random` module |
 | **`Practical 4 Convert Kilometres to Miles.py`** | Converts a distance value given in kilometers to miles. | Formula implementation (`km * 0.621371`) |
 | **`Practical 5 Find maximum of two numbers.py`** | Compares two numbers and outputs the larger one. | Conditional statements (`if-else`) |
@@ -35,9 +35,10 @@ A collection of foundational Python scripts, practice exercises, and college pra
 | **`Practical 8 Minimum number of desks.py`** | Mathematical logic problem solving to calculate minimum resources required across multiple classes. | Arithmetic, integer division |
 | **`Practical 9 The angle (in degrees) of the hour hand.py`** | Calculates the precise angle of a clock's hour hand based on given time values. | Trigonometry/geometry logic, time calculation |
 | **`Practical 10 Find vertices of a rectangle.py`** | Computes or maps out coordinate vertices for a rectangular shape. | Coordinate geometry, geometric properties |
-| **`Practical 11 Find the missing card.py`** | Logic-based puzzle script to identify a missing card from a standard deck/set. | List manipulation, set theory, searching algorithms |
-| **`Practical 12 Maximum number of the three numbers.py`** | Compares three separate numbers to find and display the greatest one. | Nested conditionals, multi-variable comparison |
-| **`Practical 13 Find if a year is a leap year.py`** | Determines whether a given year is a leap year based on divisibility rules by 4, 100, and 400. | Conditional logic, modulo operator (`%`), Boolean expressions |
+| **`Practical 11 Find the missing card.py`** | Logic-based puzzle script to identify a missing card or number from a sequence using mathematical summation. | Mathematical optimization, list manipulation, arithmetic progression |
+| **`Practical 12 Maximum number of the three numbers(m1).py`** | Compares three separate numbers to find and display the greatest one. | Conditional logic, multi-variable comparison |
+| **`Practical 12 Maximum number of the three numbers (m2).py`** | Takes three individual number inputs from the user and compares them using conditional statements to find the largest one. | Conditional logic, relational operators, multi-variable comparison |
+| **`Practical 13 Find if a year is a leap year.py`** | Determines whether a given year is a leap year based on divisibility rules by 4, 100, and 400. | Conditional logic, modulo operator (`%`) |
 
 ---
 
